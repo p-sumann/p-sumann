@@ -132,8 +132,9 @@ class SumanPaudel:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=p-sumann&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=p-sumann&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=p-sumann&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <br/><br/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=p-sumann&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
 </div>
 
 ---
