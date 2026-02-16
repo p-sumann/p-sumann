@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+Production-Grade+AI+Systems+%F0%9F%9A%80;LLM+Agents+%7C+RAG+Pipelines+%7C+Voice+AI+%F0%9F%8E%99%EF%B8%8F;From+Research+to+Deployment+at+Scale+%E2%9A%A1)](https://git.io/typing-svg)
 
-<br/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-paudel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dastonsuman1997@gmail.com)
