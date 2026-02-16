@@ -132,24 +132,8 @@ class SumanPaudel:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=p-sumann&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=p-sumann&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-sumann&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p-sumann&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="98%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p-sumann&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=p-sumann&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
 </div>
 
 ---
@@ -158,10 +142,21 @@ class SumanPaudel:
 
 <div align="center">
 
-[![liveclaw](https://github-readme-stats.vercel.app/api/pin/?username=p-sumann&repo=liveclaw&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/p-sumann/liveclaw)
-[![nl2sql](https://github-readme-stats.vercel.app/api/pin/?username=p-sumann&repo=nl2sql&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/p-sumann/nl2sql)
-[![music-recommender](https://github-readme-stats.vercel.app/api/pin/?username=p-sumann&repo=music-recommender&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/p-sumann/music-recommender)
-[![rag-based-news-application](https://github-readme-stats.vercel.app/api/pin/?username=p-sumann&repo=rag-based-news-application&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/p-sumann/rag-based-news-application)
+<a href="https://github.com/p-sumann/liveclaw">
+<img src="https://img.shields.io/badge/🎙️_liveclaw-Giving_OpenClaw_voice_capabilities!-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br/>
+<a href="https://github.com/p-sumann/nl2sql">
+<img src="https://img.shields.io/badge/🗃️_nl2sql-Natural_Language_to_SQL_queries-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br/>
+<a href="https://github.com/p-sumann/music-recommender">
+<img src="https://img.shields.io/badge/🎵_music--recommender-ML--powered_music_recommendations-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br/>
+<a href="https://github.com/p-sumann/rag-based-news-application">
+<img src="https://img.shields.io/badge/📰_rag--news--app-RAG--based_news_retrieval_&_QA-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</a>
 
 </div>
 
