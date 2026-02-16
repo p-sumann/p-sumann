@@ -133,7 +133,7 @@ class SumanPaudel:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=p-sumann&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=p-sumann&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=p-sumann&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 <div align="center">
@@ -169,9 +169,11 @@ class SumanPaudel:
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/p-sumann/p-sumann/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p-sumann/p-sumann/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p-sumann/p-sumann/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/p-sumann/p-sumann/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
