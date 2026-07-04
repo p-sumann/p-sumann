@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-paudel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dastonsuman1997@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sumanpaude1997)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sumanpaudel.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sumanpaudel.me/)
 [![Profile Views](https://komarev.com/ghpvc/?username=p-sumann&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/p-sumann)
 
 </div>
@@ -68,7 +68,7 @@ class SumanPaudel:
 
 </div>
 
-> Fine-tuned OCR & Vision-Language models (DeepSeek, Qwen, PaddleOCR) — improved accuracy from **84% → 95%** using SFT + DPO.
+> Fine-tuned OCR & Vision-Language models (DeepSeek, Qwen, PaddleOCR) �� improved accuracy from **84% → 95%** using SFT + DPO.
 > Deployed on **2× NVIDIA H100 SXM** via vLLM.
 
 ---
