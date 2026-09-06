@@ -68,7 +68,7 @@ class SumanPaudel:
 
 </div>
 
-> Fine-tuned OCR & Vision-Language models (DeepSeek, Qwen, PaddleOCR) �� improved accuracy from **84% → 95%** using SFT + DPO.
+> Fine-tuned OCR & Vision-Language models (DeepSeek, Qwen, PaddleOCR) → improved accuracy from **84% → 95%** using SFT + DPO.
 > Deployed on **2× NVIDIA H100 SXM** via vLLM.
 
 ---
