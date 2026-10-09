@@ -18,7 +18,7 @@
 
 ```python
 class SumanPaudel:
-    role = "Senior AI Engineer @ Leapfrog Technology"
+    role = "Senior AI Engineer"
     location = "Kathmandu, Nepal 🇳🇵"
     education = "MSc Data Science — Tribhuvan University (GPA: 3.7/4.0)"
     experience = "5+ years in ML/AI Engineering"
